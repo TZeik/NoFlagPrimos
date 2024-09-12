@@ -1,4 +1,8 @@
+/*
+    Uziel Almonte (1014-6077)
+    Randy Germosen (1013-4707)
 
+*/
 import java.util.Vector;
 import java.util.Scanner;
 
